@@ -1,49 +1,32 @@
-## Ameirah Protfolio
+Forty by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
+This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
+creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
+set up to smoothly transition to secondary landing pages (for which a separate page
+template is provided), and includes a number of neat effects (check out the menu!),
+extra features, and all the usual stuff you'd expect. Hope you dig it!
 
----
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-### About me
+(* = not included)
 
-<H4> I am a motivated IT professional with a bachelor’s degree in IT Security and Forensics and practical experience in computer engineering, customer service, and technical support. My background includes roles in troubleshooting, system optimization, and project implementation, equipping me with a broad set of skills in technology and problem-solving. I am passionate about leveraging my technical expertise and hands-on experience to drive innovation and efficiency in IT environments. I am seeking a challenging role where I can contribute to impactful projects, optimize systems, and support organizational success through effective technology solutions <H4/>
-
-
-____
-
-## Education
-<h4>Bachelors in: Security and Forensics
-| May 2024
- </h4>
- <h5>Relevant coursework: Cybersecurity, Digital Forensics, Network Security, Risk Management.
-</h5>
-
-_____
-
- ## Experience 
- <h4> CNS | Computer Engineer | 1 year
-</h4>
-<h4> ADIB |Trainee| 8 Weeks
-</h4>
-<h4>Emircom |Trainee - CCTV project | 8 Weeks
- </h4>
-
- _____
-
- ## Course and Certification
-
- <h4>CISCO Acadimy 
- </h4>
- <h5>Inreoduction to Netrwork
- </h5>
- <h4>Nomu Cybersecurity Bootcamp
- </h4>
- <h5>Abdullah Algurair Foundation, 50 hours
- </h5>
+AJ
+aj@lkn.io | @ajlkn
 
 
+Credits:
 
+	Demo Images:
+		Unsplash (unsplash.com)
 
+	Icons:
+		Font Awesome (fontawesome.io)
 
-
- 
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
