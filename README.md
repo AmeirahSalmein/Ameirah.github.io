@@ -1,32 +1,25 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌐 My Portfolio
 
+Welcome to my GitHub portfolio! This repository showcases my projects, skills, and experience in **cybersecurity**, **IT security**, and **software development**.  
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+## 🚀 About Me  
+I am an IT professional with a background in **IT Security and Forensics** and a postgraduate degree in **Computer Science**. My expertise includes:  
+- 🔐 **Cybersecurity** – Network and software security, threat modeling, and encryption.  
+- 💾 **Database Management** – SQL, MySQL, and database security.  
+- 🖥 **Programming & Scripting** – Python & Java.  
+- 📊 **UML & System Design** – Creating abuse case diagrams, sequence diagrams, and class diagrams.  
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 📂 Projects  
+### 1️⃣ SASD  
+📌 **Description**: This project aims to develop an irrigation system that relies on drones, which enable us to apply agriculture using new technologies and reach far areas for agriculture purposes.
+We hear a lot about the importance of local agriculture and the presence of plants to reduce atmospheric damage, as plants absorb carbon dioxide and release oxygen, and other than that, plants are a source of food, the United Arab Emirates recommends cultivation.
+  
+🔧 **Tech Stack**: Python, JAVA   
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+### 📬 Contact Me  
+💼 **LinkedIn**: www.linkedin.com/in/ameirah-almesmari-909593294
+📧 **Email**: Ameirahsalmein@gmail.com
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Feel free to explore and contribute! 🚀 
